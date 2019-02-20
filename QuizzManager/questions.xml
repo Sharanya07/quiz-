@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<questions>
+	<question order="1">
+		<id>1</id>
+		<label>What is the definition of JVM ?</label>
+		<difficulty>2</difficulty>
+		<topics>
+			<topic>Java</topic>
+			<topic>Java Virtual Machine</topic>
+		</topics>
+		<answers>
+			<answer>Java Virtual Machine</answer>
+		</answers>
+	</question>
+	<question order="2">
+		<id>2</id>
+		<label>Can you read a .class file ?</label>
+		<difficulty>3</difficulty>
+		<topics>
+			<topic>Java</topic>
+			<topic>Compilation</topic>
+		</topics>
+		<choices>
+			<choice valid="false">Yes</choice>
+			<choice valid="true">No</choice>
+		</choices>
+	</question>
+	<question order="2">
+		<id>3</id>
+		<label>What are the main differences between Java and C ?</label>
+		<difficulty>1</difficulty>
+		<topics>
+			<topic>Java</topic>
+			<topic>C</topic>
+		</topics>
+		<choices>
+			<choice valid="true">OOP</choice>
+			<choice valid="false">Procedures</choice>
+			<choice valid="false">Garbage collector</choice>
+		</choices>
+	</question>
+</questions>
